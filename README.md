@@ -2,6 +2,8 @@
 ## Hack2Skill Prompt Wars | Google Antigravity IDE Platform
 ### Premium Green-White Aesthetic | 30+ Integrated Features | WCAG 2.1 AA Compliant
 
+🚀 **Live Demo:** [carbonwise-ai-1234.web.app](https://carbonwise-ai-1234.web.app)
+
 ---
 
 ## 📋 Table of Contents

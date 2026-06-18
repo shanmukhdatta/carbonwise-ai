@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "deploying": "carbonwise-ai-1234",
+    "staging": "carbonwise-ai-1234",
+    "firebase deploy": "carbonwise-ai-1234"
+  },
+  "targets": {},
+  "etags": {}
+}
